@@ -5,7 +5,7 @@
 
 如果你希望购买一些现成的代理服务,可选择下述代理服务
 - [搬瓦工官方机场](https://justmysocks.net/members/aff.php?aff=16884)
-- 
+
 **[中文文档](README.zh.md)**
 **[日本語ドキュメント](README.ja.md)**
 
