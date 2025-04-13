@@ -1,19 +1,15 @@
-# ![OpenGFW](docs/logo.png)
+# 服务器代理服务 Server Proxy Service
 
-[![Quality check status](https://github.com/apernet/OpenGFW/actions/workflows/check.yaml/badge.svg)](https://github.com/apernet/OpenGFW/actions/workflows/check.yaml)
-[![License][1]][2]
+如果你觉得本项目对你有用,而且你也恰巧有这方面的需求,你也可以选择通过我的购买链接赞助我  
+- [搬瓦工GIA服务器](https://bandwagonhost.com/aff.php?aff=41846)  - - - 仅推荐购买GIA套餐 - - -   
 
-[1]: https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg
-[2]: LICENSE
+如果你希望购买一些现成的代理服务,可选择下述代理服务
+- [搬瓦工官方机场](https://justmysocks.net/members/aff.php?aff=16884)
 
 **[中文文档](README.zh.md)**
 **[日本語ドキュメント](README.ja.md)**
 
 OpenGFW is your very own DIY Great Firewall of China (https://en.wikipedia.org/wiki/Great_Firewall), available as a flexible, easy-to-use open source program on Linux. Why let the powers that be have all the fun? It's time to give power to the people and democratize censorship. Bring the thrill of cyber-sovereignty right into your home router and start filtering like a pro - you too can play Big Brother.
-
-**Documentation site: https://gfw.dev/**
-
-Telegram group: https://t.me/OpGFW
 
 > [!CAUTION]
 > This project is still in very early stages of development. Use at your own risk. We are looking for contributors to help us improve and expand the project.
